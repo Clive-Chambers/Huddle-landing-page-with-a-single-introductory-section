@@ -96,6 +96,20 @@ button:hover {
   color: #ffff;
 }
 
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.attribution a:hover {
+  color: hsl(300, 69%, 71%);
+}
+
 @media screen and (min-width: 860px) and (max-width: 1240px) {
   p {
     max-width: 50rem;
